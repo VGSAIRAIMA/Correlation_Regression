@@ -1,5 +1,5 @@
 # Correlation and regression for data analysis
-# DATE :03.03.2026
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
